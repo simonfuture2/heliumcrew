@@ -3,10 +3,12 @@ HeliumCREW is a new place to find the best nodes to STAKE your HNT. IF you want 
 
 We will be providing a ranking system based off the activity level on social media profiles. If you are a Helium Power User, you can use this d-link page to help guide your Helium journey!
 
-let us continue to deploy and build the IoT network of the Future! 
-http://pdsolutions.heliumcrw.hns.to/
+Let us continue to deploy and build the IoT network of the Future!
 
-Use the link below to Helium Equipment products. 
-http://cryptechology.hns.to/
+# _http://pdsolutions.heliumcrw.hns.to/_
+
+Use the link below to Helium Equipment products.
+
+# _http://cryptechology.hns.to/_
 
 
