@@ -5,7 +5,7 @@ We will be providing a ranking system based off the activity level on social med
 
 Let us continue to deploy and build the IoT network of the Future!
 
-# _http://pdsolutions.heliumcrw.hns.to/_
+# _http://pdsolutions.heliumcrew.hns.to/_
 
 Use the link below to Helium Equipment products.
 
